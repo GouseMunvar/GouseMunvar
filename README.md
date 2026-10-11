@@ -18,6 +18,10 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="62%">
+
 ```js
 const gouse = {
   role: "System Engineer @ TCS",
@@ -27,6 +31,16 @@ const gouse = {
   motto: "Code. Learn. Improve. Repeat.",
 };
 ```
+
+</td>
+<td width="38%" align="center">
+
+<!-- Anime GIF #1: save your GIF as assets/anime-coding.gif in this repo -->
+<img src="./assets/anime-coding.gif" width="100%" alt="anime coding gif" />
+
+</td>
+</tr>
+</table>
 
 - 💼 System Engineer at **TCS**
 - 🌱 Currently learning **Spring Boot, Spring Security & DSA**
@@ -106,6 +120,9 @@ const gouse = {
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<!-- Anime GIF #2: save your GIF as assets/anime-footer.gif in this repo -->
+<img src="./assets/anime-footer.gif" width="320" alt="anime footer gif" />
 
 ### ✨ _"Code. Learn. Improve. Repeat."_
 
