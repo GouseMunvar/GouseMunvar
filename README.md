@@ -95,6 +95,11 @@ const gouse = {
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time" />
 
+<br/>
+
+<!-- Streak card (hosted service). Replace YOUR_USERNAME. -->
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=14400" alt="GitHub streak" />
+
 </div>
 
 ---
