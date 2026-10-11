@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Gouse%20Munvar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="header" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GouseMunvar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Gouse+Munvar;Frontend+Developer+%7C+React+%26+Next.js;Building+MERN+Full+Stack+Apps;Learning+Spring+Boot+%26+Spring+Security;Code.+Learn.+Improve.+Repeat." alt="Typing animation" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="followers" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="stars" />
-<img src="https://img.shields.io/github/created-at/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2c5364&label=Joined" alt="joined" />
+<img src="https://img.shields.io/github/followers/GouseMunvar?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="followers" />
+<img src="https://img.shields.io/github/stars/GouseMunvar?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="stars" />
+<img src="https://img.shields.io/github/created-at/GouseMunvar?style=for-the-badge&logo=github&logoColor=white&color=2c5364&label=Joined" alt="joined" />
 
 </div>
 
@@ -89,16 +89,16 @@ const gouse = {
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true&border_radius=14" alt="Top languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=GouseMunvar&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouseMunvar&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true&border_radius=14" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=0d1117&hide_border=true&border_radius=14&cache_seconds=14400" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=GouseMunvar&theme=radical&background=0d1117&hide_border=true&border_radius=14&cache_seconds=14400" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GouseMunvar&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%" />
 
 </div>
 
@@ -109,9 +109,9 @@ const gouse = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GouseMunvar/GouseMunvar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GouseMunvar/GouseMunvar/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/GouseMunvar/GouseMunvar/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -137,8 +137,8 @@ const gouse = {
 
 <!--
 ================= SETUP NOTES (safe to delete) =================
-Repo name must equal your username: YOUR_USERNAME/YOUR_USERNAME
-Replace every YOUR_USERNAME / YOUR_LINKEDIN / YOUR_PORTFOLIO / YOUR_EMAIL.
+Repo name must equal your username: GouseMunvar/GouseMunvar
+Replace every GouseMunvar / YOUR_LINKEDIN / YOUR_PORTFOLIO / YOUR_EMAIL.
 Settings > Actions > General > Workflow permissions > Read and write.
 
 .github/workflows/snake.yml
