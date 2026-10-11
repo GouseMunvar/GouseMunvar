@@ -1,18 +1,16 @@
-<!-- ============ HEADER (animated waving banner) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gouse%20Munvar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=System%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Gouse%20Munvar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="header" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Gouse+Munvar;Frontend+Developer+%7C+React+%26+Next.js;Building+MERN+Full+Stack+Apps;Learning+Spring+Boot+%26+Spring+Security;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Gouse+Munvar;Frontend+Developer+%7C+React+%26+Next.js;Building+MERN+Full+Stack+Apps;Learning+Spring+Boot+%26+Spring+Security;Code.+Learn.+Improve.+Repeat." alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/badge/TCS-System%20Engineer-0A66C2?style=for-the-badge&logo=tata&logoColor=white" alt="TCS" />
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge" alt="collab" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="followers" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="stars" />
+<img src="https://img.shields.io/github/created-at/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=2c5364&label=Joined" alt="joined" />
 
 </div>
 
@@ -20,30 +18,15 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
-
 ```js
 const gouse = {
   role: "System Engineer @ TCS",
   focus: ["React.js", "Next.js", "MERN Stack"],
   learning: ["Spring Boot", "Spring Security", "DSA"],
-  currentlyBuilding: "Full Stack Applications",
-  motto: "Code. Learn. Improve. Repeat. 🔁",
+  building: "Full Stack Applications",
+  motto: "Code. Learn. Improve. Repeat.",
 };
 ```
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="90" />
-
-</td>
-</tr>
-</table>
 
 - 💼 System Engineer at **TCS**
 - 🌱 Currently learning **Spring Boot, Spring Security & DSA**
@@ -57,21 +40,17 @@ const gouse = {
 
 <div align="center">
 
-**Frontend**
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui,html,css&theme=dark" alt="frontend" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui,html,css&theme=dark" />
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java&theme=dark" alt="backend" />
 
-**Backend**
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="database" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java&theme=dark" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools" />
 
 </div>
 
@@ -83,14 +62,12 @@ const gouse = {
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| 🏦 **Banking System** | Full-stack banking application | ![MERN](https://img.shields.io/badge/MERN-1f2937?style=flat-square) |
-| 💼 **Job Tracker** | Track and manage job applications | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 💬 **Real-Time Chat App** | Live messaging with rooms | ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio) |
-| 🌐 **Portfolio Website** | Personal showcase site | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🏦 **Banking System** | Full-stack banking application | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| 💼 **Job Tracker** | Track and manage job applications | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 💬 **Real-Time Chat App** | Live messaging with Socket.IO | ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| 🌐 **Portfolio Website** | Personal showcase site | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
 </div>
-
-> 💡 Tip: replace the project names with links, e.g. `[🏦 Banking System](https://github.com/YOUR_USERNAME/banking-system)`
 
 ---
 
@@ -98,32 +75,11 @@ const gouse = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<!-- Generated by a GitHub Action in your own repo, so it never goes offline. See setup notes at the bottom. -->
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="profile details" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="top languages" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time" />
 
 </div>
 
@@ -131,13 +87,12 @@ const gouse = {
 
 ## 🐍 Contribution Snake
 
-<!-- Needs a GitHub Action (see setup notes below). Remove this section if you skip it. -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -148,37 +103,31 @@ const gouse = {
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 ### ✨ _"Code. Learn. Improve. Repeat."_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
 
 <!--
-==================== SNAKE SETUP (optional) ====================
-Create the file: .github/workflows/snake.yml in your YOUR_USERNAME/YOUR_USERNAME repo
+================= SETUP NOTES (safe to delete) =================
+Repo name must equal your username: YOUR_USERNAME/YOUR_USERNAME
+Replace every YOUR_USERNAME / YOUR_LINKEDIN / YOUR_PORTFOLIO / YOUR_EMAIL.
+Settings > Actions > General > Workflow permissions > Read and write.
 
-name: Generate Snake
+1) .github/workflows/snake.yml
+name: Snake
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push:
-    branches: [main]
 permissions:
   contents: write
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
@@ -193,5 +142,28 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-==================================================================
+
+2) .github/workflows/summary-cards.yml
+name: Summary Cards
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEMES: "tokyonight"
+
+   (METRICS_TOKEN = a personal access token with repo + read:user scopes,
+    saved under Settings > Secrets and variables > Actions.)
+
+Run both workflows once from the Actions tab (Run workflow).
+================================================================
 -->
