@@ -99,7 +99,7 @@ const gouse = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GouseMunvar&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%" />
+<img src="https://ghchart.rshah.org/00F7FF/GouseMunvar" alt="Contribution chart" width="95%" />
 
 </div>
 
