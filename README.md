@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/github/followers/GouseMunvar?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="followers" />
 <img src="https://img.shields.io/github/stars/GouseMunvar?style=for-the-badge&logo=github&logoColor=white&color=2c5364" alt="stars" />
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Always learning" />
+<img src="https://img.shields.io/badge/Always-Learning-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="Always learning" />
 <img src="https://img.shields.io/badge/TCS-System%20Engineer-0A66C2?style=for-the-badge" alt="TCS System Engineer" />
 
 </div>
@@ -98,6 +98,8 @@ const gouse = {
 <img src="https://streak-stats.demolab.com/?user=GouseMunvar&theme=radical&background=0d1117&hide_border=true&border_radius=14&cache_seconds=14400" alt="GitHub streak" />
 
 <br/>
+
+### 📈 Contribution Chart
 
 <img src="https://ghchart.rshah.org/00F7FF/GouseMunvar" alt="Contribution chart" width="95%" />
 
