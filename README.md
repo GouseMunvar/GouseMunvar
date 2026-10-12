@@ -99,7 +99,7 @@ const gouse = {
 
 <br/>
 
-### 📈 Contribution Chart
+<h3 align="left">📈 Contribution Chart</h3>
 
 <img src="https://ghchart.rshah.org/00F7FF/GouseMunvar" alt="Contribution chart" width="95%" />
 
